@@ -3768,19 +3768,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/diegomorales/.nuget/packages/": {}
+    "/Users/dmorales/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diegomorales/Documents/projects/chat-app/SignalRWebPack/SignalRWebPack.csproj",
+      "projectUniqueName": "/Users/dmorales/Documents/chatapp/SignalRWebPack/SignalRWebPack.csproj",
       "projectName": "SignalRWebPack",
-      "projectPath": "/Users/diegomorales/Documents/projects/chat-app/SignalRWebPack/SignalRWebPack.csproj",
-      "packagesPath": "/Users/diegomorales/.nuget/packages/",
-      "outputPath": "/Users/diegomorales/Documents/projects/chat-app/SignalRWebPack/obj/",
+      "projectPath": "/Users/dmorales/Documents/chatapp/SignalRWebPack/SignalRWebPack.csproj",
+      "packagesPath": "/Users/dmorales/.nuget/packages/",
+      "outputPath": "/Users/dmorales/Documents/chatapp/SignalRWebPack/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/diegomorales/.nuget/NuGet/NuGet.Config"
+        "/Users/dmorales/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
